@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/PC2/Desktop/UTN-DevOps/vagrant","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"C:/Users/PC2/Desktop/UTN-DevOps/vagrant","disabled":false,"__vagrantfile":true}}}
